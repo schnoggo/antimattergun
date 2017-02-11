@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5241"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="grip-profile.svg">
+  <defs
+     id="defs5235" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="246.14539"
+     inkscape:cy="402.31773"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1138"
+     inkscape:window-height="765"
+     inkscape:window-x="479"
+     inkscape:window-y="190"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5238">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="display:inline;opacity:1;fill:#7f1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.025332,151.85715 v 19.8577 h 0.0021 v 2.59571 h 19.61896 c 4.876628,0.0823 4.472068,-0.65763 5.925728,3.86901 8.85339,16.64011 8.17113,25.53309 7.68481,34.11213 -0.14419,2.54988 1.12625,3.06614 2.46806,2.51716 6.2959,-3.01363 15.20388,-9.03335 17.84129,-14.83734 0.90337,-1.98797 -5.62254,-24.09639 -15.62282,-33.75814 0,0 -0.0653,0.0123 -0.0682,0.0129 v -3.35896 h -14.38052 v 3.33209 h -21.999737 -0.077 -0.534849 v -3.96048 h 0.06718 v -10.38179 z"
+       id="path4163"
+       inkscape:connector-curvature="0"
+       inkscape:label="Grip and skeleton" />
+  </g>
+</svg>
